@@ -10,9 +10,9 @@ the problem, the solution and the result (screens rebuilt with sample data).
 - **Data platform:** Snowflake, Amazon Redshift, SQL
 - **Transform and code:** dbt, Python, Git
 - **Ingest and integrate:** Fivetran, Workato, Openflow
-- **Apps and BI:** Streamlit, Next.js, Power BI, Tableau, Excel
-- **Business systems:** Salesforce, NetSuite, Jira
-- **AI:** whichever AI gets the result
+- **Apps and BI:** Streamlit, Power BI, Tableau, Excel
+- **Business systems:** Salesforce, NetSuite, Jira, ADP, Microsoft Entra, Rocketlane
+- **AI:** Codex, Claude, Cortex Code, Any AI that gets the result
 
 ## Selected projects
 - [Account Health Score](https://arun-rengarajan.github.io/#health-score): one 0 to 100 score per customer,
